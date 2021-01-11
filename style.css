@@ -113,7 +113,8 @@ body {
 }
 .click {
   width: 300px;
-  margin-left: 20px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .welcome {
   text-align: center;
