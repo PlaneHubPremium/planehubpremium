@@ -119,6 +119,7 @@ body {
 }
 .halloffame {
   width: 100%;
+  height: auto;
 }
 #demo {
   text-align: center;
@@ -130,8 +131,14 @@ body {
 }
 .hometable {
   width: 90%;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+}
+.hometable td,
+.hometable th {
+  padding: 40px;
+  text-align: center;
 }
 .tableinfo {
   font-size: 14px;
